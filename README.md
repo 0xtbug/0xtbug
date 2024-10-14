@@ -1,7 +1,7 @@
 <h2> Hi i'm Tubagus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-A fullstack developer passionate about backend development. I also enjoy exploring cybersecurity and blockhain technologies.
+A fullstack developer passionate about backend development. I also enjoy exploring cybersecurity and blockchain technologies.
 
 ## ⚙🛠️ Languages and Tools
 <p align="left">
@@ -16,5 +16,5 @@ A fullstack developer passionate about backend development. I also enjoy explori
 - 🎯 Portfolio site: [Portfolio](https://tubagusnm.dev).
 - ⚡ 2nd github account: [I have other accounts about blockchain, automated tools, etc.](https://github.com/Tnodes)
 
-## 📫Connect with Me
+## 📫 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-tubagusnm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tubagusnm/)](https://www.linkedin.com/in/tubagusnm/)

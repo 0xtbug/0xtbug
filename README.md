@@ -12,8 +12,8 @@ A fullstack developer passionate about backend development. I also enjoy explori
 
 ## 🤔 Hello World
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Blog](https://heybagus.tech/blog).
-- 🎯 Portfolio site: [Portfolio](https://heybagus.tech).
+- 📫 Read my blogs: [Blog](https://tubagusnm.com/articles).
+- 🎯 Portfolio site: [Portfolio](https://tubagusnm.com).
 - ⚡ 2nd github account: [I have other accounts about blockchain, automated tools, etc.](https://github.com/Tnodes)
 
 ## 📫 Connect with Me

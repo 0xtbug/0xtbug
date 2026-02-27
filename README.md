@@ -16,5 +16,8 @@ A fullstack developer passionate about backend development. I also enjoy explori
 - 🎯 Portfolio site: [Portfolio](https://tubagusnm.com).
 - ⚡ 2nd github account: [I have other accounts about blockchain, automated tools, etc.](https://github.com/Tnodes)
 
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
 ## 📫 Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-tubagusnm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tubagusnm/)](https://www.linkedin.com/in/tubagusnm/)

@@ -19,13 +19,13 @@ A fullstack developer passionate about backend development. I also enjoy explori
 <!-- PROJECTS:START -->
 ## 🌟 Popular Project
 - [zero-limit](https://github.com/0xtbug/zero-limit) - ZeroLimit is a cross-platform desktop application for monitoring AI coding assistant quotas using CLIProxyAPI.
+- [RepoLens](https://github.com/0xtbug/RepoLens) - A lightweight API built with HonoJS on Cloudflare Workers that fetches your GitHub repositories and returns them as Markdown - split into 🌟 Popular Projects and 🆕 New Projects.
 - [bookmark-manager](https://github.com/0xtbug/bookmark-manager) - 🚀 A public Linkding client to browse and manage all your saved bookmarks with a clean, modern interface.
 - [shorten](https://github.com/0xtbug/shorten) - Shorten is a modern, user-friendly URL shortening application built with Next.js and Prisma. It allows users to create shortened versions of long URLs, making them easier to share and manage.
 - [KairoAI](https://github.com/0xtbug/KairoAI) - AI-powered Chrome extension for generating smart Twitter/X replies using Gemini AI.
-- [ReDet](https://github.com/0xtbug/ReDet) - A powerful Chrome extension that detects and analyzes Google reCAPTCHA implementations on websites.
 
 ## 🆕 New Project
-- [RepoLens](https://github.com/0xtbug/RepoLens) - A lightweight API built with HonoJS on Cloudflare Workers that fetches your GitHub repositories and returns them as Markdown — split into 🌟 Popular Projects and 🆕 New Projects.
+- [RepoLens](https://github.com/0xtbug/RepoLens) - A lightweight API built with HonoJS on Cloudflare Workers that fetches your GitHub repositories and returns them as Markdown - split into 🌟 Popular Projects and 🆕 New Projects.
 - [whatsapp-tagall](https://github.com/0xtbug/whatsapp-tagall) - A simple WhatsApp bot that automatically mentions all participants in a group when someone sends the exact message "@all". It uses the @whiskeysockets/baileys library for WhatsApp connection and qrcode-terminal for easy authentication right in your terminal.
 - [zero-limit](https://github.com/0xtbug/zero-limit) - ZeroLimit is a cross-platform desktop application for monitoring AI coding assistant quotas using CLIProxyAPI.
 - [prasasti](https://github.com/0xtbug/prasasti) - PRASASTI is a Decentralized Application (DApp) designed for secure and transparent management of academic records using blockchain technology. It allows institutions to issue verifiable academic credentials and enables students and third parties to verify them.

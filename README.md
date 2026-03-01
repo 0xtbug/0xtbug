@@ -25,11 +25,11 @@ A fullstack developer passionate about backend development. I also enjoy explori
 - [KairoAI](https://github.com/0xtbug/KairoAI) - AI-powered Chrome extension for generating smart Twitter/X replies using Gemini AI.
 
 ## 🆕 New Project
+- [Wagram](https://github.com/0xtbug/Wagram) - A bidirectional bridge that relays messages between Telegram and WhatsApp - including text, images, videos, audio, documents, and stickers.
 - [RepoLens](https://github.com/0xtbug/RepoLens) - A lightweight API built with HonoJS on Cloudflare Workers that fetches your GitHub repositories and returns them as Markdown - split into 🌟 Popular Projects and 🆕 New Projects.
 - [whatsapp-tagall](https://github.com/0xtbug/whatsapp-tagall) - A simple WhatsApp bot that automatically mentions all participants in a group when someone sends the exact message "@all". It uses the @whiskeysockets/baileys library for WhatsApp connection and qrcode-terminal for easy authentication right in your terminal.
 - [zero-limit](https://github.com/0xtbug/zero-limit) - ZeroLimit is a cross-platform desktop application for monitoring AI coding assistant quotas using CLIProxyAPI.
 - [prasasti](https://github.com/0xtbug/prasasti) - PRASASTI is a Decentralized Application (DApp) designed for secure and transparent management of academic records using blockchain technology. It allows institutions to issue verifiable academic credentials and enables students and third parties to verify them.
-- [KairoAI](https://github.com/0xtbug/KairoAI) - AI-powered Chrome extension for generating smart Twitter/X replies using Gemini AI.
 <!-- PROJECTS:END -->
 
 ## 📫 Connect with Me

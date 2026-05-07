@@ -17,11 +17,11 @@ A fullstack developer passionate about backend development. I also enjoy explori
 - [bookmark-manager](https://github.com/0xtbug/bookmark-manager) - 🚀 A public Linkding client to browse and manage all your saved bookmarks with a clean, modern interface.
 
 ## 🆕 New Project
+- [evm-disperse-tools](https://github.com/0xtbug/evm-disperse-tools) - No description
 - [sms-forwarder-openwrt](https://github.com/0xtbug/sms-forwarder-openwrt) - Forward SMS from an Android phone to Telegram via ADB — runs on an OpenWrt STB/router.
 - [telbot](https://github.com/0xtbug/telbot) - Go-based tool for managing Telkomsel accounts via Telegram Bot, Terminal CLI, or MCP Server (for AI agents).
 - [Wagram](https://github.com/0xtbug/Wagram) - A bidirectional bridge that relays messages between Telegram and WhatsApp - including text, images, videos, audio, documents, and stickers.
 - [RepoLens](https://github.com/0xtbug/RepoLens) - A lightweight API built with HonoJS on Cloudflare Workers that fetches your GitHub repositories and returns them as Markdown - split into 🌟 Popular Projects and 🆕 New Projects.
-- [whatsapp-tagall](https://github.com/0xtbug/whatsapp-tagall) - A simple WhatsApp bot that automatically mentions all participants in a group when someone sends the exact message "@all". It uses the @whiskeysockets/baileys library for WhatsApp connection and qrcode-terminal for easy authentication right in your terminal.
 <!-- PROJECTS:END -->
 
 ## 📫 Connect with Me

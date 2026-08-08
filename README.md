@@ -11,8 +11,8 @@ A fullstack developer passionate about backend development. I also enjoy explori
 <!-- PROJECTS:START -->
 ## 🌟 Popular Project
 - [zero-limit](https://github.com/0xtbug/zero-limit) - ZeroLimit is a cross-platform desktop application for monitoring AI coding assistant quotas using CLIProxyAPI.
-- [telbot](https://github.com/0xtbug/telbot) - Go-based tool for managing Telkomsel accounts via Telegram Bot, Terminal CLI, or MCP Server (for AI agents).
 - [unofficial-pddikti-api](https://github.com/0xtbug/unofficial-pddikti-api) - Reverse-engineered API for PDDIKTI — Indonesian Higher Education Database.  Provides access to universities, study programs, lecturers, and students data.
+- [telbot](https://github.com/0xtbug/telbot) - Go-based tool for managing Telkomsel accounts via Telegram Bot, Terminal CLI, or MCP Server (for AI agents).
 - [Wagram](https://github.com/0xtbug/Wagram) - A bidirectional bridge that relays messages between Telegram and WhatsApp - including text, images, videos, audio, documents, and stickers.
 - [Mimo-Usage](https://github.com/0xtbug/Mimo-Usage) - A modern, multi-account dashboard for monitoring Xiaomi MiMo Token usage & API Limits
 
